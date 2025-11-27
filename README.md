@@ -1,37 +1,47 @@
-# {Application Name}
-My Portfolio
+# Hi there, I'm Manasseh Bundi 👋
 
-## Developed by;
-Manasseh Bundi  
-## Description
-My Personal Portfolio
-## Setup/Installation Requirements
-Clone this repo git clone https://github.com/Nasseh123/independent-project-week1.git
+I'm a **skilled and dedicated Full-stack developer** with experience in building **scalable, maintainable, and high-performance web applications**. I specialize in **full-cycle software development**, from concept and design to deployment and maintenance.
 
-## Technologies Used
-.Css
-.Html
-## Support and contact details
-contact me @:manassehbundi2017@gmail.com
-### License
-MIT License
+---
 
-Copyright (c) [2020] [my portfolio]
+## 🔹 Core Skills
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### Backend
+- **Python:** Django, FastAPI, Flask, Elixir
+- **JavaScript/TypeScript:** Node.js, Express.js  
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### Frontend
+- **Frameworks:** Angular, Vue.js
+- **UI/Styling:** Bootstrap, MaterialUI, TailwindCSS  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### Databases
+- **SQL:** PostgreSQL, MySQL  
+- **NoSQL:** MongoDB, Elasticsearch, Firebase, Redis  
+
+### Others
+- **DevOps/Cloud:** AWS, GCP, Azure, Heroku  
+- **Tools:** Git, GitHub, GitLab, CI/CD  
+- **Methodologies:** Agile, Scrum, Kanban, Feature Driven, Pair Programming  
+
+---
+
+## 💪 Additional Tools & Libraries
+SQLAlchemy, Redux, WebSockets, MaterialUI, Numpy/Pandas, BeautifulSoup, Boto3, Faker, Alembic, TypeORM, HTML, CSS, LESS, Sass
+
+---
+
+## ⚡ About Me
+- Passionate about **clean, efficient code** and innovative solutions  
+- Strong team player who **values knowledge sharing**  
+- Comfortable working **independently** and tackling complex problems  
+- Always **learning new technologies** to stay ahead in the industry  
+
+---
+
+## 📫 Get in Touch
+- Email: manassehbundi2017@gmail.com  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/manasseh-bundi-949908173/)  
+- Portfolio: [Portfolio](**)  
+---
+
+Thanks for visiting my GitHub! 🚀
