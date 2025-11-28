@@ -7,7 +7,8 @@ I'm a **skilled and dedicated Full-stack developer** with experience in building
 ## 🔹 Core Skills
 
 ### Backend
-- **Python:** Django, FastAPI, Flask, Elixir
+- **Python:** Django, FastAPI, Flask
+- **Elixir**
 - **JavaScript/TypeScript:** Node.js, Express.js  
 
 ### Frontend
